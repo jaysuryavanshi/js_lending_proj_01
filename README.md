@@ -1,1 +1,1 @@
-# js_lending_proj_01
+# js_lending_proj_02
